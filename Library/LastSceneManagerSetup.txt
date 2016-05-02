@@ -1,1 +1,4 @@
-sceneSetups: []
+sceneSetups:
+- path: Assets/__OmegaMage_Scene_0.unity
+  isLoaded: 1
+  isActive: 1
